@@ -48,3 +48,4 @@ int [] newSamples = new int[samples.length-n];
   }
     samples = newSamples;
 }
+}
